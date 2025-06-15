@@ -1,8 +1,5 @@
 ## My posts  
-### **2024-05** (1)  
-- 2024-05-23 [黑苹果系统安装概览](https://red-signals.github.io/learns/2024/05/23/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%A6%82%E8%A7%88/)  
-  
-  
-### **2024-04** (1)  
-- 2024-04-16 [Auto.js](https://red-signals.github.io/learns/2024/04/16/Auto-JS/)  
+### **2024-07** (2)  
+- 2024-07-11 [微星Z490 A黑苹果配置过程](https://red-signals.github.io/2024/07/11/%E9%98%85%E8%AF%BB/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/%E5%BE%AE%E6%98%9FZ490%20A%E9%BB%91%E8%8B%B9%E6%9E%9C%E9%85%8D%E7%BD%AE%E8%BF%87%E7%A8%8B/)  
+- 2024-07-11 [黑苹果硬件配置](https://red-signals.github.io/2024/07/11/%E9%98%85%E8%AF%BB/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%A1%AC%E4%BB%B6%E9%85%8D%E7%BD%AE/)  
   
