@@ -1,5 +1,6 @@
 ## My posts  
-### **2025-06** (2)  
+### **2025-06** (3)  
+- 2025-06-16 [说分手](https://red-signals.github.io/2025/06/16/%E8%89%B2%E7%B2%89%E5%8D%81%E4%B8%89%E5%88%86/)  
 - 2025-06-16 [fseff二分三分](https://red-signals.github.io/2025/06/16/%E9%98%BF%E5%B0%94%E6%B3%95%E7%91%9F%E5%A4%AB/)  
 - 2025-06-16 [对方的防守](https://red-signals.github.io/2025/06/16/%E4%BA%BA%E6%96%87%E8%B6%A3%E4%BA%8B/)  
   
