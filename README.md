@@ -1,8 +1,4 @@
 ## My posts  
-### **2025-06** (1)  
-- 2025-06-28 [色法二手房](https://red-signals.github.io/2025/06/28/test%E9%A5%BF%E5%95%8A%E5%88%86/)  
-  
-  
-### **2024-09** (1)  
-- 2024-09-17 [Listen 1](https://red-signals.github.io/2024/09/17/Listen%201/)  
+### **2025-07** (1)  
+- 2025-07-07 [DeepSeek-R1本地+API部署](https://red-signals.github.io/2025/07/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%E6%89%A7%E8%A1%8C%E6%A1%88%E4%BE%8B/DeepSeek-R1%E6%9C%AC%E5%9C%B0+API%E9%83%A8%E7%BD%B2/)  
   
